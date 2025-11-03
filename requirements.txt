@@ -1,0 +1,6 @@
+pandas
+python-docx
+customtkinter
+pytest
+openpyxl
+# pip install -r requirements.txt
