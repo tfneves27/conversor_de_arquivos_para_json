@@ -29,7 +29,7 @@ Este é um aplicativo de desktop simples para Windows que converte arquivos .csv
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd conversor-de-arquivos-para-json
+    cd conversor_de_arquivos_para_json
     ```
 
 3.  **Crie um ambiente virtual:**
