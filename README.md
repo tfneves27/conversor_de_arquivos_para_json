@@ -13,7 +13,7 @@ Este é um aplicativo de desktop simples para Windows que converte arquivos .csv
 
 ## Como Usar
 
-1.  Baixe o arquivo `Conversor.de.Arquivos.v1.0.zip` da seção "Releases".
+1.  Baixe o arquivo `Conversor.de.Arquivos.para.JSON.v1.0.zip` da seção "Releases".
 2.  Descompacte o arquivo.
 3.  Execute o arquivo `main.exe` (ou o nome que você der).
 4.  Clique em "Selecionar Arquivo" e escolha um arquivo compatível.
