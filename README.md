@@ -62,7 +62,7 @@ Este é um aplicativo de desktop simples para Windows que converte arquivos .csv
 * Python 3.10+
 * CustomTkinter (para a interface gráfica)
 * pandas (para manipulação de CSV e EXCEL)
-* python-docx (para manipalação de DOCX)
+* python-docx (para manipulação de DOCX)
 * openpyxl
 * pytest (para realizar testes)
 * PyInstaller (para empacotamento do projeto)
